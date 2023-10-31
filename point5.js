@@ -14,3 +14,4 @@ alert(`Kelly can reach sam at ${minNum=(samDaily,kellyDaily,difference)} day`)
 
 
 
+
