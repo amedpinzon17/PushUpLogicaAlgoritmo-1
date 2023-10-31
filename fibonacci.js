@@ -14,4 +14,3 @@ let nfibonacci = function (n){
     }
 }
 alert(`Número fibonacci: ${nfibonacci(n)}`);
-
